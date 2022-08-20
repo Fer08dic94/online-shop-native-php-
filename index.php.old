@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="../bootstrap-4.0/css/estilos.css">
+	<link rel="stylesheet" type="text/css" href="../bootstrap-4.0/font/css/all.css">
+
+	<script src="../bootstrap-4.0/jquery/jquery.min"></script>
+	<script src="../bootstrap-4.0/js/main.js"></script>
+</head>
+<body>
+
+
+	<div class="slideshow">
+		<ul class="slider">
+			<li>
+				<img src="../integradora/admin/dist/img/1.jpg">
+				<section class="caption">
+					<h1>Lorem insum</h1>
+					<p>esto es un texto</p>
+				</section>
+			</li>
+			<li>
+				<img src="../integradora/admin/dist/img/2.jpg">
+				<section class="caption">
+					<h1>Lorem insum</h1>
+					<p>esto es un texto</p>
+				</section>
+			</li>
+			<li>
+				<img src="../integradora/admin/dist/img/3.jpg">
+				<section class="caption">
+					<h1>Lorem insum</h1>
+					<p>esto es un texto</p>
+				</section>
+			</li>
+		</ul>
+		
+		<ol class="pagination">			
+			
+		</ol>
+
+		<div class="left">
+			<span class="fa fa-chevron-left"></span>
+		</div>
+		<div class="right">
+			<span class="fa fa-chevron-right"></span>
+		</div>
+	</div>
+
+</body>
+</html>
